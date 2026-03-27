@@ -1,0 +1,5 @@
+{
+  "name": "FAQ Assistant",
+  "description": "An intelligent FAQ chatbox powered by Gemini to help users find answers quickly.",
+  "requestFramePermissions": []
+}
